@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=efr-maa" alt="efr-maa" /></a> </p>
 
-- 🔭 I’m currently working on **I’m currently working on HTML,CSS & Javascript practice projects**
+- 🔭 I’m currently working on **HTML,CSS & JAVASCRIPT practice projects**
 
-- 🌱 I’m currently learning **I’m currently learning HTML5, CSS3, JAVASCRIPT, PYTHON, SQL and responsive web design**
+- 🌱 I’m currently learning **HTML5, CSS3, JAVASCRIPT, PYTHON, SQL and responsive web design**
 
-- 👯 I’m looking to collaborate on **I’m looking to collaborate on beginner-friendly web development projects**
+- 👯 I’m looking to collaborate on **beginner-friendly web development projects**
 
-- 🤝 I’m looking for help with **I’m looking for help with improving my frontend skills and understanding web development better**
+- 🤝 I’m looking for help with **improving my frontend skills and understanding web development better**
 
 - 👨‍💻 All of my projects are available at [All of my projects are available at Coming soon...](All of my projects are available at Coming soon...)
 
 - 📝 I regularly write articles on [I regularly write articles on Coming soon...](I regularly write articles on Coming soon...)
 
-- 💬 Ask me about **Ask me about HTML, CSS, and beginner web design**
+- 💬 Ask me about **HTML, CSS, and beginner web design**
 
 - 📫 How to reach me **efrimpomaa@email.meredith.edu**
 
