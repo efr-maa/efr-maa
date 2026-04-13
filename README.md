@@ -1,8 +1,8 @@
 <h2 align="left">Hi 👋! My name is Elizabeth Frimpomaa, and I am a beginner frontend developer.</h2>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=efr-maa&show_icons=true&theme=dracula&cache_seconds=86400" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=efr-maa&layout=compact&theme=dracula&cache_seconds=86400" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=efr-maa&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=efr-maa&layout=compact&theme=dracula" height="150" alt="Top languages" />
 </div>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
