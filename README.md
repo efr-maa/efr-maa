@@ -2,8 +2,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=efr-maa&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=efr-maa&layout=compact&theme=dracula" height="150" alt="Top languages" />
-</div>
+ <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=efr-maa&layout=compact&theme=dracula&hide_border=true&langs_count=6" height="150" alt="Top languages" />
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
 
