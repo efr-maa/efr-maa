@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Elizabeth Frimpomaa, and I am a beginner frontend developer.</h2>
+<h2 align="left">Hi 👋! My name is Elizabeth Frimpomaa, and I am a frontend developer.</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=efr-maa&show_icons=true&theme=dracula" height="150" alt="GitHub stats" />
