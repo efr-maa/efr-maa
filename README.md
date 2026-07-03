@@ -27,7 +27,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 <br clear="both">
-## 📫 Connect With Me
+## Connect With Me
 <div align="left">
   <a href="https://youtube.com/@elizabethfrimpomaa-lt9cj?si=Ii5PrNdBIGQvAyCW" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="35" alt="youtube" />
