@@ -1,4 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d0a1f,50:c2185b,100:ff6ec7&height=180&section=header&text=Hello!%20I'm%20Elizabeth&fontSize=42&fontColor=ffe4f2&desc=Web%20Developer%20%7C%20Building%20for%20Social%20Good&descSize=18&descAlignY=78&animation=fadeIn" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=550&lines=Hi,+I'm+Elizabeth;Web+Developer;Building+for+Social+Good" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/she%2Fher-ff6ec7?style=for-the-badge&labelColor=2d0a1f" />
@@ -52,5 +54,3 @@ Web developer who loves building clean, responsive, user-focused websites.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
   </a>
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec7,50:c2185b,100:2d0a1f&height=100&section=footer" />
