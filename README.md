@@ -43,14 +43,4 @@ Web developer who loves building clean, responsive, user-focused websites.
 
 ## 📫 Connect With Me
 
-<div align="left">
-  <a href="https://www.instagram.com/lizzy_frimpy?igsh=MXN5dnV4enloZ2llZA%3D%3D&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="instagram" />
-  </a>
-  <a href="mailto:efrimpomaa@email.meredith.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/elizabethfrimpomaa887" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="linkedin" />
-  </a>
-</div>
+
